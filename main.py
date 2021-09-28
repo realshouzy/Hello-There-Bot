@@ -42,7 +42,7 @@ async def on_message(message):
     print ('Ping sent')
 
   if message.content.startswith('>code'):
-    await message.channel.send('You can finde the code here: https://gist.github.com/realshouzy/806b036a70529eaf12454958ddfff377')
+    await message.channel.send('You can finde the code here: https://github.com/realshouzy/Hello-There-Bot')
     print('Codelink sent')
 
   if message.content.startswith('>invite'):
