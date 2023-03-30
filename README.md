@@ -1,4 +1,9 @@
 # Hello There Bot
+
+### Important
+#### This bot has been archived and will no longer receive updates and can not be invited to new servers anymore.
+
+### What is this?
 <html>
   <head>
     <p> This is the code of my <strong> <em> "Hello There" </em> </strong> Discord Bot. Its just a fun projects so its not that complex. </p>
