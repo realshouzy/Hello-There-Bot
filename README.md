@@ -6,7 +6,7 @@
 ### What is this?
 <html>
   <head>
-    <p> This is the code of my <strong> <em> "Hello There" </em> </strong> Discord Bot. Its just a fun projects so its not that complex. </p>
+    <p> This is the code of my <strong> <em> "Hello There" </em> </strong> Discord Bot. Its just a fun projects so the code it down bad terrible. </p>
     <p> If you like it, you can vote for it here: <strong> https://top.gg/bot/851400158158782514 </strong> </p>
 
 <a href="https://top.gg/bot/851400158158782514">
