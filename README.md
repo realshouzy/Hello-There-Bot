@@ -1,7 +1,7 @@
 # Hello There Bot
 
 ### Important
-#### This bot has been archived and will no longer receive updates and can not be invited to new servers anymore.
+#### This bot has been archived and will no longer receive updates anymore.
 
 ### What is this?
 <html>
